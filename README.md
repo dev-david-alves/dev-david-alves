@@ -2,9 +2,9 @@
 
 ##
 
-- 🎒 Cursando Ciência da Computação na Universidade Federal do Ceará
+- 🎒 Cursando Ciência da Computação na Universidade Federal do Ceará.
 - 🔭 Atualmente trabalho com desenvolvimento Web e Mobile.
-- 🌱 Aprendendo Angular, NodejS e Ionic.
+- 🌱 Aprendendo AngularJS, NodeJS e Ionic.
 
 ##
 
