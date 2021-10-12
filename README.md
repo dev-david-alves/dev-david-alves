@@ -1,10 +1,10 @@
-### Olá, me chamo David Alves 👋
+### Hi, I'm David Alves 👋
 
 ##
 
-- 🎒 Cursando Ciência da Computação na Universidade Federal do Ceará.
-- 🔭 Atualmente trabalho com desenvolvimento Web e Mobile.
-- 🌱 Aprendendo AngularJS, NodeJS e Ionic.
+- 🎒 Studying Computer Science at the Federal University of Ceará.
+- 🔭 Currently working with Web and Mobile development.
+- 🌱 Learning AngularJS, NodeJS and Ionic.
 
 ##
 
@@ -16,7 +16,7 @@
  
 ##
   
-#### Linguagens de programação que mais uso 💻
+#### Programming languages I use the most 💻
   
 <div style="display: inline_block"><br>
   <img align="center" alt="David-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
