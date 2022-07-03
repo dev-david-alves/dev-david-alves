@@ -1,32 +1,33 @@
-### Hi, I'm David Alves 👋
+### Olá, Eu sou David Alves 😁
 
 ##
 
-- 🎒 Studying Computer Science at the Federal University of Ceará.
-- 🔭 Currently working with Web and Mobile development.
-- 🌱 Learning AngularJS, NodeJS and Ionic.
+- 💻 Estou cursando Ciência da Computação na Universidade Federal do Ceará. Atualmente estou focado no desenvolvimento Web e Mobile, sempre criando projetos interessantes para me aprimorar.
 
-##
+### Tenho conhecimento em tecnologias como:
+- HTML e CSS
+- Bootstrap, SAAS e JQuery
+- JavaScript e TypeScript
+- ReactJS, React Native e Ionic
+- Python, C++ e C
+- Git e GitHub
+- Linux
 
-<div align="center">
-  <a href="https://github.com/dev-david-alves">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dev-david-alves&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-david-alves&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
+### Tenho conhecimento básico em metodologias ágeis como:
+- Scrum
+- Kanban
+- Scrumban
+
+### Linguagens que falo:
+- Português (Nativo)
+- Inglês (Intermediário)
  
-##
-  
-#### Programming languages I use the most 💻
-  
-<div style="display: inline_block"><br>
-  <img align="center" alt="David-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="David-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="David-Angularjs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
-  <img align="center" alt="David-NodeJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="David-Ionic" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ionic/ionic-original.svg">
-  <img align="center" alt="David-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="David-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="David-C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
-</div>
-  
+### Linguagens que mais tenho domínio:
+  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+  ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ##
