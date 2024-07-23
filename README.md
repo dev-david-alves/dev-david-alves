@@ -3,8 +3,8 @@
 - 💻 Estou cursando Ciência da Computação na Universidade Federal do Ceará. Atualmente estou focado em desenvolvimento Web, sempre criando projetos interessantes para me aprimorar.
 
 ### Sou desenvolvedor Front-end e tenho conhecimento em:
-- ReactJS, Next.js e React Native
-- JavaScript e TypeScript
+- ReactJS, Next.js
+- JavaScript, TypeScript
 - CSS, TailwindCSS
 - E mais...
 
