@@ -1,19 +1,28 @@
-### Olá, Eu sou David Alves 😁
+### Hi, I'm David Alves 😁
 
-- 💻 Estou cursando Ciência da Computação na Universidade Federal do Ceará. Atualmente estou focado em desenvolvimento Web, sempre criando projetos interessantes para me aprimorar.
+- 💻 I have a bachelor's degree in Computer Science from the Federal University of Ceará. 
+- 🧐 I'm currently focused on FullStack Web development, always creating interesting projects to improve myself.
 
-### Sou desenvolvedor Front-end e tenho conhecimento em:
-- ReactJS, Next.js
+### I have knowledge in:
+- HTML, CSS
 - JavaScript, TypeScript
-- HTML, CSS, TailwindCSS
-- E mais...
+- React, Next.js, Node.js
+- Tailwind CSS, Material UI
+- Axios, React Query, Fetch API
+- Redux, Context API
+- Git, GitHub
+- AWS, Google Cloud
+- Python, ElasticSearch
+- MySQL, MongoDB
+- Problem solving
+- And much more...
 
-### Maior projeto desenvolvido até o momento
-<a href="https://github.com/dev-david-alves/turing-station" target="_blank">Turing Station</a> é uma plataforma web progressiva completa para você estudar e praticar os conceitos de Máquinas de Turing. Nela você pode simular diferentes variantes de forma interativa utilizando seu computador ou celular. Além disso, a plataforma conta com videoaulas e questões para resolver e praticar este assunto tão interessante.
+### Largest project developed so far
+<a href="https://github.com/dev-david-alves/turing-station" target="_blank">Turing Station</a> is a complete progressive web platform for you to study and practice the concepts of Turing Machines. Here you can simulate different variants interactively using your computer or smartphone. In addition, the platform has video lessons and questions to solve and practice this interesting subject.
 
 ### Social
-<a href="https://www.linkedin.com/in/dev-david-alves/" target="_blank">Meu LinkedIn</a>
+<a href="https://www.linkedin.com/in/dev-david-alves/?locale=en_US" target="_blank">My LinkedIn</a>
 
-### Idiomas que falo:
-- Português (Nativo)
-- Inglês (Intermediário)
+### Languages:
+- Portuguese (Native)
+- English (Intermediate)
